@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Freelancer in web programming. Enthusiast of technologies and networks. University student of telecommunications in
+continuous learning. Hobby in design and animation topics.
+
+C, C++
+HTML, CSS, Javascript, Python
+Java, C#
+SQL, php,
+Laravel, Kotlin
+
+(PHP, Python, JavaScript),
+(Front End Development),
+(Other programming languages: [C,
+C++ y C#]);
+
