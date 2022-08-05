@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 Freelancer in web programming. Enthusiast of technologies and networks. University student of telecommunications in
 continuous learning. Hobby in design and animation topics.
 
-C, C++
-HTML, CSS, Javascript, Python
-Java, C#
-SQL, php,
-Laravel, Kotlin
+Javascript - Typescript - SASS
+-Angular
+-React
+PHP
+-Laravel
+-Lumen
+Databases
+MySQL, MongoDB, PostgreSQL
 
 (PHP, Python, JavaScript),
 (Front End Development),
