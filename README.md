@@ -1,34 +1,39 @@
-### Hi there 👋
+##Hi, there! 👋
 
-<!--
-**byNethZ/byNethZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding playground! 🚀 I'm a passionate web programmer and a tech aficionado currently navigating the fascinating world of telecommunications as a university student. 🎓 My journey is fueled by curiosity and a perpetual love for learning. 💡
 
-Here are some ideas to get you started:
+###Tech Stack 🛠️:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-JavaScript | TypeScript
+-SASS
+-Angular | React
+-PHP | Laravel | Lumen
+-Databases: MySQL, MongoDB, PostgreSQL
 
-Freelancer in web programming. Enthusiast of technologies and networks. University student of telecommunications in
-continuous learning. Hobby in design and animation topics.
+###Areas of Expertise 💼:
 
-Javascript - Typescript - SASS
--Angular
--React
-PHP
--Laravel
--Lumen
-Databases
-MySQL, MongoDB, PostgreSQL
+*Backend Magic 🧙 (PHP, Python, JavaScript)
+*Crafting User Experiences ✨ (Front End Development)
+*Multilingual Coder 🌐 (Other programming languages: C, C++, C#)
 
-(PHP, Python, JavaScript),
-(Front End Development),
-(Other programming languages: [C,
-C++ y C#]);
+When I'm not immersed in code, you can catch me exploring the realms of design and animation. 🎨✨ Join me in this exciting journey where every line of code tells a unique story. Let's build something amazing together! 🚀👨‍💻
 
+##¡Hola! 👋
+
+¡Bienvenido a mi espacio de programación! 🚀 Soy un apasionado programador web y un entusiasta de la tecnología que actualmente navega por el fascinante mundo de las telecomunicaciones como estudiante universitario. 🎓 Mi viaje está impulsado por la curiosidad y un amor perpetuo por el aprendizaje. 💡
+
+###Pila Tecnológica 🛠️:
+
+-JavaScript | TypeScript
+-SASS
+-Angular | React
+-PHP | Laravel | Lumen
+-Bases de datos: MySQL, MongoDB, PostgreSQL
+
+###Áreas de Especialización 💼:
+
+*Magia en el Backend 🧙 (PHP, Python, JavaScript)
+*Creación de Experiencias de Usuario ✨ (Desarrollo Frontend)
+*Codificador Multilingüe 🌐 (Otros lenguajes de programación: C, C++, C#)
+
+Cuando no estoy inmerso en código, puedes encontrarme explorando los reinos del diseño y la animación. 🎨✨ Únete a mí en este emocionante viaje donde cada línea de código cuenta una historia única. ¡Construyamos algo increíble juntos! 🚀👨‍💻
