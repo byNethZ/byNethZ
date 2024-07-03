@@ -1,39 +1,36 @@
 ## Hi, there! 👋
 
-Welcome to my coding playground! 🚀 I'm a passionate web programmer and a tech aficionado currently navigating the fascinating world of telecommunications as a university student. 🎓 My journey is fueled by curiosity and a perpetual love for learning. 💡
+Welcome to my development space. I am a passionate web programmer and a technology enthusiast, currently a university student in the field of telecommunications. My journey is driven by curiosity and a constant love for learning.
 
-### Tech Stack 🛠️:
-
+Technical Skills:
 - JavaScript | TypeScript
 - SASS
 - Angular | React
 - PHP | Laravel | Lumen
 - Databases: MySQL, MongoDB, PostgreSQL
 
-### Areas of Expertise 💼:
+Areas of Expertise:
+- Backend Development (PHP, Python, JavaScript)
+- User Experience Creation (Frontend Development)
+- Multilingual Programming (Other languages: C, C++, C#)
 
-* Backend Magic 🧙 (PHP, Python, JavaScript)
-* Crafting User Experiences ✨ (Front End Development)
-* Multilingual Coder 🌐 (Other programming languages: C, C++, C#)
+When I'm not immersed in coding, I enjoy exploring the fields of design and animation. Join me on this exciting journey where every line of code tells a unique story. Let's build something amazing together!
 
-When I'm not immersed in code, you can catch me exploring the realms of design and animation. 🎨✨ Join me in this exciting journey where every line of code tells a unique story. Let's build something amazing together! 🚀👨‍💻
 
 ## ¡Hola! 👋
 
-¡Bienvenido a mi espacio de programación! 🚀 Soy un apasionado programador web y un entusiasta de la tecnología que actualmente navega por el fascinante mundo de las telecomunicaciones como estudiante universitario. 🎓 Mi viaje está impulsado por la curiosidad y un amor perpetuo por el aprendizaje. 💡
+Bienvenido a mi espacio de desarrollo. Soy un apasionado programador web y un entusiasta de la tecnología, actualmente estudiante universitario en el campo de las telecomunicaciones. Mi trayectoria está impulsada por la curiosidad y un amor constante por el aprendizaje.
 
-### Pila Tecnológica 🛠️:
-
+Conocimientos Técnicos:
 - JavaScript | TypeScript
 - SASS
 - Angular | React
 - PHP | Laravel | Lumen
-- Bases de datos: MySQL, MongoDB, PostgreSQL
+- Bases de Datos: MySQL, MongoDB, PostgreSQL
 
-### Áreas de Especialización 💼:
+Áreas de Especialización:
+- Desarrollo Backend (PHP, Python, JavaScript)
+- Creación de Experiencias de Usuario (Desarrollo Frontend)
+- Programación Multilingüe (Otros lenguajes: C, C++, C#)
 
-* Magia en el Backend 🧙 (PHP, Python, JavaScript)
-* Creación de Experiencias de Usuario ✨ (Desarrollo Frontend)
-* Codificador Multilingüe 🌐 (Otros lenguajes de programación: C, C++, C#)
-
-Cuando no estoy inmerso en código, puedes encontrarme explorando los reinos del diseño y la animación. 🎨✨ Únete a mí en este emocionante viaje donde cada línea de código cuenta una historia única. ¡Construyamos algo increíble juntos! 🚀👨‍💻
+Cuando no estoy inmerso en el código, disfruto explorando los campos del diseño y la animación. Acompáñame en este emocionante viaje donde cada línea de código cuenta una historia única. ¡Construyamos algo increíble juntos!
